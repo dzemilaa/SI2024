@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dzemi\\Desktop\\projekat\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6AE3F205-BC57-4766-87B3-9380CD904370}|backend\\backend.csproj|c:\\users\\dzemi\\desktop\\projekat\\backend\\backend\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AE3F205-BC57-4766-87B3-9380CD904370}|backend\\backend.csproj|solutionrelative:backend\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AE3F205-BC57-4766-87B3-9380CD904370}|backend\\backend.csproj|c:\\users\\dzemi\\desktop\\projekat\\backend\\backend\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AE3F205-BC57-4766-87B3-9380CD904370}|backend\\backend.csproj|solutionrelative:backend\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AE3F205-BC57-4766-87B3-9380CD904370}|backend\\backend.csproj|c:\\users\\dzemi\\desktop\\projekat\\backend\\backend\\models\\removefromcartrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AE3F205-BC57-4766-87B3-9380CD904370}|backend\\backend.csproj|solutionrelative:backend\\models\\removefromcartrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AE3F205-BC57-4766-87B3-9380CD904370}|backend\\backend.csproj|c:\\users\\dzemi\\desktop\\projekat\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AE3F205-BC57-4766-87B3-9380CD904370}|backend\\backend.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AE3F205-BC57-4766-87B3-9380CD904370}|backend\\backend.csproj|c:\\users\\dzemi\\desktop\\projekat\\backend\\backend\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AE3F205-BC57-4766-87B3-9380CD904370}|backend\\backend.csproj|solutionrelative:backend\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AE3F205-BC57-4766-87B3-9380CD904370}|backend\\backend.csproj|c:\\users\\dzemi\\desktop\\projekat\\backend\\backend\\models\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AE3F205-BC57-4766-87B3-9380CD904370}|backend\\backend.csproj|solutionrelative:backend\\models\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AE3F205-BC57-4766-87B3-9380CD904370}|backend\\backend.csproj|c:\\users\\dzemi\\desktop\\projekat\\backend\\backend\\models\\addtocartrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AE3F205-BC57-4766-87B3-9380CD904370}|backend\\backend.csproj|solutionrelative:backend\\models\\addtocartrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AE3F205-BC57-4766-87B3-9380CD904370}|backend\\backend.csproj|c:\\users\\dzemi\\desktop\\projekat\\backend\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6AE3F205-BC57-4766-87B3-9380CD904370}|backend\\backend.csproj|solutionrelative:backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AE3F205-BC57-4766-87B3-9380CD904370}|backend\\backend.csproj|c:\\users\\dzemi\\desktop\\projekat\\backend\\backend\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AE3F205-BC57-4766-87B3-9380CD904370}|backend\\backend.csproj|solutionrelative:backend\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RemoveFromCartRequest.cs",
+              "DocumentMoniker": "C:\\Users\\dzemi\\Desktop\\projekat\\backend\\backend\\Models\\RemoveFromCartRequest.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\RemoveFromCartRequest.cs",
+              "ToolTip": "C:\\Users\\dzemi\\Desktop\\projekat\\backend\\backend\\Models\\RemoveFromCartRequest.cs",
+              "RelativeToolTip": "backend\\Models\\RemoveFromCartRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T00:56:39.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddToCartRequest.cs",
+              "DocumentMoniker": "C:\\Users\\dzemi\\Desktop\\projekat\\backend\\backend\\Models\\AddToCartRequest.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\AddToCartRequest.cs",
+              "ToolTip": "C:\\Users\\dzemi\\Desktop\\projekat\\backend\\backend\\Models\\AddToCartRequest.cs",
+              "RelativeToolTip": "backend\\Models\\AddToCartRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T01:40:51.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "C:\\Users\\dzemi\\Desktop\\projekat\\backend\\backend\\Models\\Registration.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\Registration.cs",
+              "ToolTip": "C:\\Users\\dzemi\\Desktop\\projekat\\backend\\backend\\Models\\Registration.cs",
+              "RelativeToolTip": "backend\\Models\\Registration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T01:36:59.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegistrationController.cs",
+              "DocumentMoniker": "C:\\Users\\dzemi\\Desktop\\projekat\\backend\\backend\\Controllers\\RegistrationController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\RegistrationController.cs",
+              "ToolTip": "C:\\Users\\dzemi\\Desktop\\projekat\\backend\\backend\\Controllers\\RegistrationController.cs",
+              "RelativeToolTip": "backend\\Controllers\\RegistrationController.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAcwE0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T02:39:49.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\dzemi\\Desktop\\projekat\\backend\\backend\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\dzemi\\Desktop\\projekat\\backend\\backend\\Controllers\\CartController.cs*",
+              "RelativeToolTip": "backend\\Controllers\\CartController.cs*",
+              "ViewState": "AQIAAKMAAAAAAAAAAAAkwLEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T02:22:18.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dzemi\\Desktop\\projekat\\backend\\backend\\Program.cs",
+              "RelativeDocumentMoniker": "backend\\Program.cs",
+              "ToolTip": "C:\\Users\\dzemi\\Desktop\\projekat\\backend\\backend\\Program.cs",
+              "RelativeToolTip": "backend\\Program.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T02:08:18.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dzemi\\Desktop\\projekat\\backend\\backend\\appsettings.json",
+              "RelativeDocumentMoniker": "backend\\appsettings.json",
+              "ToolTip": "C:\\Users\\dzemi\\Desktop\\projekat\\backend\\backend\\appsettings.json",
+              "RelativeToolTip": "backend\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-03T02:57:53.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\dzemi\\Desktop\\projekat\\backend\\backend\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\dzemi\\Desktop\\projekat\\backend\\backend\\Models\\Product.cs",
+              "RelativeToolTip": "backend\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T01:18:59.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\dzemi\\Desktop\\projekat\\backend\\backend\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\CartItem.cs",
+              "ToolTip": "C:\\Users\\dzemi\\Desktop\\projekat\\backend\\backend\\Models\\CartItem.cs",
+              "RelativeToolTip": "backend\\Models\\CartItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T01:42:57.06Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
